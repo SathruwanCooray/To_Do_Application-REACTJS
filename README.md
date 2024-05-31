@@ -2,6 +2,8 @@
 
 This is a ToDo Application designed for organizing tasks efficiently. The application helps users manage their daily activities with ease.
 
+**Disclaimer**: Please use ``npm install`` to install dependencies  and ``npm dev run`` to run the application
+
 ## Overview
 
 The ToDo Application serves as a task management tool with the following key features:
